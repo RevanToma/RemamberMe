@@ -1,4 +1,4 @@
 
 Another small app created to learn and understand Vuejs
 >
-[Remamber Me](https://www.google.com)
+[Page Link](https://www.google.com)
