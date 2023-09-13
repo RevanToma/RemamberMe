@@ -15,7 +15,7 @@
 <script>
 import LearningResources from './LearningResources.vue'
 export default {
-  inject: ['resources'],
+  inject: ['resources', 'dsa'],
   components: {
     LearningResources
   }
